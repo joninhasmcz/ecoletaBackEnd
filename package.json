@@ -1,0 +1,27 @@
+{
+  "name": "ecoletabackend",
+  "version": "1.0.0",
+  "description": "Um simples back-end feito em node + express, com banco SQL.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joninhasmcz/ecoletaBackEnd.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "Jonas Santos e Victor Hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joninhasmcz/ecoletaBackEnd/issues"
+  },
+  "homepage": "https://github.com/joninhasmcz/ecoletaBackEnd#readme",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.18.1"
+  }
+}
